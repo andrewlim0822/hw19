@@ -37,7 +37,7 @@ Then, send a transaction by doing:
 
 The `coins` object contains a list of child wallets for each coin, in this case `BTCTEST` and `ETH`.
 
-![wallet-object](../../Instructions/Images/wallet-object.png)
+![wallet-object](../../screenshots/run.png)
 
 Here is an example `ETH` transaction on a local testnet:
 

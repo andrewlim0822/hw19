@@ -38,7 +38,7 @@ Then, send a transaction by doing:
 The `coins` object contains a list of child wallets for each coin, in this case `BTCTEST` and `ETH`.
 
 ![wallet-object](https://github.com/andrewlim0822/hw19/blob/main/screenshots/run.png)
-
+![wallet-object2](https://github.com/andrewlim0822/hw19/blob/main/screenshots/privtoacc_sentx.png)
 
 Here is an example `BTCTEST` transaction on testnet3:
 
